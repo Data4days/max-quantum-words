@@ -9,7 +9,7 @@ def index():
     return("""
           <h1>Hey!</h1>
       
-          <p>Given a phrase, this microservice returns related terms from Wikipedia.<br />
+          <p>Given a phrase, this microservice returns a list of related terms from Wikipedia.<br />
           <br />
           Use the pattern <i>/{your chosen term}</i> to query a word.<br />
           For example, to get the related terms for hummus, visit the url <br/>
