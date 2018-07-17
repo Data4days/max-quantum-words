@@ -15,7 +15,7 @@ def index():
           For example, to get the related terms for hummus, visit the url <br/>
           https://max-quantum-words.herokuapp.com/<u>hummus</u><br/>
           <br/>
-          Phrases with multiple words can join the words using underscores or spaces.<br/>
+          Phrases with multiple words can use underscores or spaces to join the words.<br/>
           E.g. both 'Green_Apple' and 'Green Apple' are acceptable.<br/>
           </p.
     
